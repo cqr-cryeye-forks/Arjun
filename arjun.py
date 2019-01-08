@@ -12,10 +12,10 @@ from core.requester import requester
 from core.utils import e, d, stabilize, flattenParams, randomString
 from core.colors import red, green, white, end, info, bad, good, run
 
-print ('''%s    _         
-   /_| _ '    
-  (  |/ /(//) %sv1.0%s
-      _/      %s''' % (green, white, green, end))
+#print ('''%s    _         
+#   /_| _ '    
+#  (  |/ /(//) %sv1.0%s
+#      _/      %s''' % (green, white, green, end))
 
 
 parser = argparse.ArgumentParser() #defines the parser
